@@ -74,6 +74,7 @@ Para probar la creación de un producto con `POST /api/product/create`, puedes u
   "sku": 1,
   "name": "Brownie",
   "status": "AVAILABLE",
+   "category":"Postres",
   "price": 18000
 }
 
